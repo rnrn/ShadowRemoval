@@ -1,0 +1,36 @@
+﻿  Video Shadow Removal.cpp
+d:\video shadow removal\video shadow removal\imageshadow.h(77): error C2061: syntax error: identifier 'Point'
+d:\video shadow removal\video shadow removal\imageshadow.h(84): error C2061: syntax error: identifier 'Point'
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2065: 'p1': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2228: left of '.x' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(78): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2065: 'p2': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2228: left of '.y' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(78): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2065: 'p1': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2228: left of '.x' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(85): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2065: 'p2': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2228: left of '.y' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(85): note: type is 'unknown-type'
+  ImageShadowRemoval.cpp
+d:\video shadow removal\video shadow removal\imageshadowremoval.cpp(1570): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ImageShadow.cpp
+d:\video shadow removal\video shadow removal\imageshadow.h(77): error C2061: syntax error: identifier 'Point'
+d:\video shadow removal\video shadow removal\imageshadow.h(84): error C2061: syntax error: identifier 'Point'
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2065: 'p1': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2228: left of '.x' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(78): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2065: 'p2': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(78): error C2228: left of '.y' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(78): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2065: 'p1': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2228: left of '.x' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(85): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2065: 'p2': undeclared identifier
+d:\video shadow removal\video shadow removal\imageshadow.h(85): error C2228: left of '.y' must have class/struct/union
+  d:\video shadow removal\video shadow removal\imageshadow.h(85): note: type is 'unknown-type'
+d:\video shadow removal\video shadow removal\imageshadow.cpp(85): error C3861: 'getThresholdTs': identifier not found
+d:\video shadow removal\video shadow removal\imageshadow.cpp(186): error C3861: 'getThresholdT': identifier not found
+d:\video shadow removal\video shadow removal\imageshadow.cpp(214): error C3861: 'shadowProcessing': identifier not found
+  Generating Code...
